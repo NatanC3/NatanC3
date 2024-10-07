@@ -32,10 +32,13 @@
     
 - 
 </div>
+<hr />
+
+### Achievements
 
 <hr />
 
-### 📈 Here are some stats about me:
+### Here are some stats about me:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NatanC3&show_icons=true&theme=nord)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanC3&layout=compact&theme=nord)
 
