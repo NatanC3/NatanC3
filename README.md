@@ -6,6 +6,7 @@
         <li>My name is Natan Berhanu.</li>
         <li>he/him, I'm currently in my second year studying Computer Science at Metropolitan state University.</li>
         <li>I like to build stuff with programing. and am also frontend developer.</li>
+        <li>My Email: Natanberhanu22@gmail.com</li>
   </ul>
 </p>
 
