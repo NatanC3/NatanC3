@@ -12,16 +12,23 @@
 
 <hr />
 
+<!-- GitHub Stats -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NatanC3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=00A000&title_color=00A000">
+</div>
+
+
+<hr />
+
+<!-- skills i-->
 ### My Skills
 
 <div align="center">
-    <h3 style="font-size: 20px;">Node.js, GitHub, Python, C Programming, HTML, JavaScript</h3>
-    <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <!--<img src="https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/javascript%20-%23323330?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/html%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript%20-%23FFD700?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/css%20-%231572B6?style=for-the-badge&logo=css3" />
+    <img src="https://img.shields.io/badge/python-%23FFD343?style=for-the-badge&logo=python&logoColor=black" />
 </div>
 
 <hr />
@@ -39,12 +46,6 @@
 <hr />
 
 ### Here are some stats about me:
-
-<!-- GitHub Stats -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NatanC3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=3768db&title_color=3768db">
-</div>
-
 
 
 ### My Socials
