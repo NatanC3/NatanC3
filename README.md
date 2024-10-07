@@ -40,9 +40,12 @@
 
 ### Here are some stats about me:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NatanC3&show_icons=true&theme=nord)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanC3&layout=compact&theme=nord)
+<!-- GitHub Stats -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NatanC3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=3768db&title_color=3768db">
+</div>
 
-<hr />
+
 
 ### My Socials
 <!-- Social Badges -->
