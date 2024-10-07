@@ -1,4 +1,13 @@
-<h1 align="center">Natan</h1>
+<h1 align="center">Natan Berhanu</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/javascript%20-%23323330?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/html%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css%20-%231572B6?style=for-the-badge&logo=css3" />
+    <img src="https://img.shields.io/badge/python-%23FFD343?style=for-the-badge&logo=python&logoColor=black" />
+</div>
+
 
 <!-- About Me -->
 <p align="center">
@@ -14,44 +23,36 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NatanC3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=00A000&title_color=00A000">
+    <img src="https://github-readme-stats.vercel.app/api?username=NatanC3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00">
 </div>
-
 
 <hr />
 
-<!-- skills i-->
-### My Skills
-
+<!-- Social Badges -->
 <div align="center">
-    <img src="https://img.shields.io/badge/javascript%20-%23323330?style=for-the-badge&logo=javascript" />
-    <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/html%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css%20-%231572B6?style=for-the-badge&logo=css3" />
-    <img src="https://img.shields.io/badge/python-%23FFD343?style=for-the-badge&logo=python&logoColor=black" />
+    <a href="mailto:natanberhanu2@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/natan-berhanu-30624831a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
 <hr />
 
 ### Projects
 
-<div style="text-align: left;">
-    
+<div style="text-align: left;">  
 - 
 </div>
 <hr />
 
 ### Achievements
+<div style="text-align: left;">  
+- 
+</div>
 
 <hr />
 
-### Here are some stats about me:
-
-
-### My Socials
-<!-- Social Badges -->
+<!-- Language Stats -->
 <div align="center">
-    <a href="mailto:natanberhanu2@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/natan-berhanu-30624831a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanC3&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000">
 </div>
+<br />
