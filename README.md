@@ -46,8 +46,9 @@
 
 ### Achievements
 <div style="text-align: left;">  
-- 
+    - Courcera IBM Data Science <a href="https://coursera.org/share/f349ac742f8fc92eade8efd30fac04f7">Certificate</a>. (2024)
 </div>
+
 
 <hr />
 
